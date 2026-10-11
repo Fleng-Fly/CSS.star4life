@@ -1,9 +1,9 @@
-.log-in {
+.sign-up {
   background: linear-gradient(
     45deg,
-    rgba(19, 4, 18, 1) 40%,
-    rgba(12, 10, 51, 1) 54%,
-    rgba(59, 28, 75, 1) 78%
+    rgba(59, 28, 75, 1) 15%,
+    rgba(12, 10, 51, 1) 60%,
+    rgba(59, 28, 75, 1) 90%
   );
 }
 p {
