@@ -5,7 +5,7 @@ body {
     rgba(91, 42, 98, 1) 100%
   );
 }
-p {
+/*p {
 font-size: 25px;
 color:#CDCBCB;
 text-align: center;
@@ -28,4 +28,4 @@ border: 1px solid rgba(255, 255, 255, 0.3);
 border-radius: 8px;
 border-radius:16px;
 }
-
+*/
